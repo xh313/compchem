@@ -1,5 +1,4 @@
-NumberOfClusters,NumberOfNonSingletonClusters,R-Squared(RSQ),Semipartial R-Squared(SPRSQ),SPRSQRank,Kelley
-Penalty,IsKelleyGlobalMinimum,MergeDistance
+NumberOfClusters,NumberOfNonSingletonClusters,R-Squared(RSQ),Semipartial R-Squared(SPRSQ),SPRSQRank,KelleyPenalty,IsKelleyGlobalMinimum,MergeDistance
         1,1,0,0,,17.9439,,
         2,2,0.521759,0.521759,1,30,,1.33128
         3,3,0.623686,0.101927,2,22.5205,,1.09569
